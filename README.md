@@ -4,12 +4,6 @@ Training Link: https://colab.research.google.com/drive/1_qgZ8TM8YvMEtIhbZXg-49j5
 
 The code found at this link is used for training the SSD Mobilenet V2 COCO object detection model for localizing the Alphabot2 robot in the work space.
 
-Step 1: Install Anaconda
-
 Step 2: Python 3.5 to 3.7
 
 Step 3: Install Tensorflow 1.15.0
-
-Step 4: Install Atom Editor
-
-Step 5: Run Live Inference
