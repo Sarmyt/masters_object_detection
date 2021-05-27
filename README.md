@@ -2,7 +2,7 @@
 
 Training Link: https://colab.research.google.com/drive/1_qgZ8TM8YvMEtIhbZXg-49j5NzODt6hU?authuser=1#scrollTo=GGpkgzmqe4F-
 
-Inference Link: https://colab.research.google.com/drive/1yakQ1glKn9Zh-0bBY7i9rnCz_1eB-et6?authuser=1#scrollTo=evgQxjQIPi3O
+The code found at this link is used for training the object detection model for localizing the Alphabot2 robot in the work space.
 
 Step 1: Install Anaconda
 
