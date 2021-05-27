@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Test Images</folder>
+	<filename>81.jpg</filename>
+	<path>C:\Users\sarma\Pictures\Camera Roll\Test Images\81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>334</ymin>
+			<xmax>125</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Agent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>260</ymin>
+			<xmax>213</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
